@@ -2,7 +2,7 @@
  
 ## Overview
  
-This repository contains hands-on exercises, notes, and practical implementations completed while learning AWS Data Analytics services. The focus of this repository is understanding how cloud-based tools can be used to ingest, process, store, analyze, and visualize data at scale.
+This repository contains hands-on exercises, notes,Certifications and practical implementations completed while learning AWS Data Analytics services. The focus of this repository is understanding how cloud-based tools can be used to ingest, process, store, analyze, and visualize data at scale.
  
 The projects and documentation demonstrate foundational knowledge of modern data analytics architectures using Amazon Web Services (AWS).
  
